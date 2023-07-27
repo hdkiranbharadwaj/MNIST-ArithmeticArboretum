@@ -13,7 +13,7 @@ function nextQuestion() {
 function checkAnswer(){
     const prediction = predictImage();
     console.log(`answer ${answer}, prediction ${prediction}`);
-    if(prediction==answer)
+    if(prediction==1)
     {
         score++;
         console.log('Correct!! Score:'+score);
