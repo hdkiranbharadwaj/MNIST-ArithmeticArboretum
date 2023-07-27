@@ -1,1 +1,1 @@
-# LEgend-ArithmeticArboretum
+# MNIST-ArithmeticArboretum
